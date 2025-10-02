@@ -11,8 +11,9 @@ y[i]=2.0* float(i) + 1
 
 
 for y_element in y:
-print(y_element
+print(y_element)
 
 
 if __name__ == "__main__":
+
     main()
